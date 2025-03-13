@@ -47,7 +47,7 @@ while True:
             for i in receipts:
                 print(f"{i[0]} : {i[1]}원 | 잔액 {i[2]}원")
         else:
-            print("야.... 영수증에 아무내역도 없는데 생각 좀 하고 써라.")
+            print("야ㅋㅋ 영수증에 아무내역도 없는데 생각 좀 하고 써라.")
     if num == "4":
         print("서비스를 종료합니다.")
         break
